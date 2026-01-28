@@ -61,7 +61,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "LT 1 Practice Problems",
-  "body": " LT 1 Practice Problems    Provide complete \"Teacher's Solutions\" with bar diagrams and work in units for the following measurement word problems.      Anna poured liters of water into an empty fish tank. If of the fish tank was filled, find the capacity of the tank.      Segment is times as long as segment . Segment is cm longer than segment . If is cm long, how long is ?      Henry bought liter of fruit juice. He kept liter of it in a bottle and poured the remainder equally into cups. How much fruit juice was there in each cup? Give your final answer in liters; it should be a fraction.      The length of three rods are in the ratio . If the total length is cm, find the length of the largest rod.      After cutting off a length of m from a rope m long, the remainder is divided into equal pieces. What is the length of each piece? Give your answer in meters; final answer should be a decimal.      A tank was filled with water. After another liters of water were poured in, the tank becomes full. How much water does the tank hold?      New problem    "
+  "body": " LT 1 Practice Problems    Provide complete \"Teacher's Solutions\" with bar diagrams and work in units for the following measurement word problems.      Anna poured liters of water into an empty fish tank. If of the fish tank was filled, find the capacity of the tank.      Segment is times as long as segment . Segment is cm longer than segment . If is cm long, how long is ?      Henry bought liter of fruit juice. He kept liter of it in a bottle and poured the remainder equally into cups. How much fruit juice was there in each cup? Give your final answer in liters; it should be a fraction.      The length of three rods are in the ratio . If the total length is cm, find the length of the largest rod.      After cutting off a length of m from a rope m long, the remainder is divided into equal pieces. What is the length of each piece? Give your answer in meters; final answer should be a decimal.      A tank was filled with water. After another liters of water were poured in, the tank becomes full. How much water does the tank hold?    "
 },
 {
   "id": "practice-LT01-MeasurementWordProblems-3",
@@ -116,15 +116,6 @@ var ptx_lunr_docs = [
   "number": "6",
   "title": "",
   "body": "  A tank was filled with water. After another liters of water were poured in, the tank becomes full. How much water does the tank hold?   "
-},
-{
-  "id": "practice-LT01-MeasurementWordProblems-9",
-  "level": "2",
-  "url": "practice-LT01-MeasurementWordProblems.html#practice-LT01-MeasurementWordProblems-9",
-  "type": "Worksheet Exercise",
-  "number": "7",
-  "title": "",
-  "body": "  New problem   "
 },
 {
   "id": "homework",
