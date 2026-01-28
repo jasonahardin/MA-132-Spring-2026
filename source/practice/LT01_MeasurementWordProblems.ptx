@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- When creating a new activity, make a copy of this file with appropriate name -->
+<worksheet xml:id="practice-LT01-MeasurementWordProblems">
+  <title>LT 1 Practice Problems</title>
+
+  <!-- Optional introduction -->
+  <introduction>
+    <p>
+      Provide complete "Teacher's Solutions" with bar diagrams and work in units for the following measurement word problems.
+    </p>
+  </introduction>
+
+  <!-- Exercises start here. -->
+  <exercise workspace="3in">
+    <statement>
+      <p>
+        Anna poured <m>20</m> liters of water into an empty fish tank.
+        If <m>\dfrac{5}{6}</m> of the fish tank was filled, find the capacity of the tank.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise workspace="3in">
+    <statement>
+      <p>
+        Segment <m>\overline{AB}</m> is <m>4</m> times as long as segment <m>\overline{CD}</m>. 
+        Segment <m>\overline{EF}</m> is <m>3</m> cm longer than segment <m>\overline{CD}</m>.
+        If <m>\overline{EF}</m> is <m>8</m> cm long, how long is <m>\overline{AB}</m>?
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise workspace="3in">
+    <statement>
+      <p>
+        Henry bought <m>1</m> liter of fruit juice.
+        He kept <m>\dfrac{1}{4}</m> liter of it in a bottle and poured the remainder equally into <m>6</m> cups.
+        How much fruit juice was there in each cup? 
+        Give your final answer in liters; it should be a fraction.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise workspace="3in">
+    <statement>
+      <p>
+        The length of three rods are in the ratio <m>1:3:4</m>.
+        If the total length is <m>96</m> cm, find the length of the largest rod.
+      </p>
+    </statement>
+  </exercise>
+
+
+  <exercise workspace="3in">
+    <statement>
+      <p>
+        After cutting off a length of <m>6.32</m> m from a rope <m>20</m> m long, the remainder is divided into <m>8</m> equal pieces.
+        What is the length of each piece?
+        Give your answer in meters; final answer should be a decimal.
+      </p>
+    </statement>
+  </exercise>
+
+
+  <exercise workspace="3in">
+    <statement>
+      <p>
+        A tank was <m>\dfrac{2}{5}</m> filled with water.
+        After another <m>36</m> liters of water were poured in, the tank becomes <m>\dfrac{2}{3}</m> full.
+        How much water does the tank hold?
+      </p>
+    </statement>
+  </exercise>
+
+</worksheet>
