@@ -14,11 +14,24 @@
   <exercise workspace="3in">
     <statement>
       <p>
-        Find the value of <m>x</m> in the figure below.
+        Find the value of <m>x</m> in figure <xref ref="fig-Triangle1"/> below.
       </p>
       <figure xml:id="fig-Triangle1">
-        <image source="Triangle1" width="50%">
-          <shortdescription>Triangle Figure</shortdescription>
+        <image source="Triangle1.png" width="50%">
+          <shortdescription>A triangle with angles labeled <m>35^\circ</m>, <m>105^\circ</m>, and <m>x^\circ</m>.</shortdescription>
+        </image>
+      </figure>
+    </statement>
+  </exercise>
+
+   <exercise workspace="3in">
+    <statement>
+      <p>
+        Find the value of <m>x</m> in figure <xref ref="fig-Triangle3"/> below.
+      </p>
+      <figure xml:id="fig-Triangle3">
+        <image source="Triangle3.png" width="50%">
+          <shortdescription>aa.</shortdescription>
         </image>
       </figure>
     </statement>
