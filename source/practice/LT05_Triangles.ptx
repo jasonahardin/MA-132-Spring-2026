@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- When creating a new activity, make a copy of this file with appropriate name -->
+<worksheet xml:id="practice-LT05-Triangles">
+  <title>LT 5 Practice Problems</title>
+
+  <!-- Optional introduction -->
+  <introduction>
+    <p>
+      LT 5: Solve problems using the interior angle sum and exterior angles of a triangle.
+    </p>
+  </introduction>
+
+  <exercise workspace="3in">
+    <statement>
+      <p>
+        Find the value of <m>x</m> in the figure below.
+      </p>
+      <figure xml:id="fig-Triangle1">
+        <image source="images/Triangle1" width="50%">
+          <shortdescription>Test</shortdescription>
+        </image>
+        <!-- <caption></caption> -->
+      </figure>
+    </statement>
+    
+  </exercise>
+
+
+</worksheet>
