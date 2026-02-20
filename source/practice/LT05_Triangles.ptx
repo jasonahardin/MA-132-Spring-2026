@@ -9,8 +9,29 @@
     <p>
       LT 5: Solve problems using the interior angle sum and exterior angles of a triangle.
     </p>
+
+    <p>
+      Find the value of <m>x</m> in each figure. 
+      Show all steps and justify using the angle properties from class.
+    </p>
   </introduction>
 
+
+  <exercise workspace="3in">
+    <statement>
+      <image source="Triangle1.png" width="50%">
+      <shortdescription>Yes</shortdescription>
+    </image>
+    </statement>
+  </exercise>  
+
+  <exercise workspace="3in">
+    <statement>
+      <image source="Triangle3.png" width="50%">
+      <shortdescription>Yes</shortdescription>
+    </image>
+    </statement>
+  </exercise> 
 
 
 </worksheet>
