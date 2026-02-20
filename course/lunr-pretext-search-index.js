@@ -241,7 +241,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "LT 5 Practice Problems",
-  "body": " LT 5 Practice Problems    LT 5: Solve problems using the interior angle sum and exterior angles of a triangle.     Find the value of in the figure below.    Triangle Figure      "
+  "body": " LT 5 Practice Problems    LT 5: Solve problems using the interior angle sum and exterior angles of a triangle.     Find the value of in figure below.    A triangle with angles labeled , , and .        Find the value of in figure below.    aa.      "
 },
 {
   "id": "practice-LT05-Triangles-3",
@@ -250,7 +250,16 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  Find the value of in the figure below.    Triangle Figure     "
+  "body": "  Find the value of in figure below.    A triangle with angles labeled , , and .     "
+},
+{
+  "id": "practice-LT05-Triangles-4",
+  "level": "2",
+  "url": "practice-LT05-Triangles.html#practice-LT05-Triangles-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Find the value of in figure below.    aa.     "
 },
 {
   "id": "homework",
