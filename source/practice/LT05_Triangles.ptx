@@ -14,13 +14,13 @@
   <exercise workspace="3in">
     <statement>
       <p>
-        Find the value of <m>x</m> in figure <xref ref="fig-Triangle1"/> below.
+        Find the value of <m>x</m> in the figure below.
       </p>
-      <figure xml:id="fig-Triangle1">
+      <!-- <figure xml:id="fig-Triangle1"> -->
         <image source="images/Triangle1.png" width="50%">
           <shortdescription>A triangle with angles labeled 35 degrees, 105 degrees, and x degrees.</shortdescription>
         </image>
-      </figure>
+      <!-- </figure> -->
     </statement>
   </exercise>
 
