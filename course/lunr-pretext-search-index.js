@@ -250,7 +250,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  Find the value of in the figure below.       "
+  "body": "  Find the value of in the figure below.     "
 },
 {
   "id": "homework",
