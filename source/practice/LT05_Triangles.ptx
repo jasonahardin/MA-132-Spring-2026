@@ -17,7 +17,7 @@
         Find the value of <m>x</m> in the figure below.
       </p>
       <figure xml:id="fig-Triangle1">
-        <image source="source/images/Triangle1.png">
+        <image source="/workspaces/MA-132-Spring-2026/source/images/Triangle1.png">
           <shortdescription>(for accessibility)</shortdescription>
         </image>
         <caption>Yes</caption>
