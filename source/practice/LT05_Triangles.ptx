@@ -11,33 +11,6 @@
     </p>
   </introduction>
 
-  <exercise workspace="3in">
-    <statement>
-      <p>
-        Find the value of <m>x</m> in the figure below.
-      </p>
-      <figure xml:id="fig-Triangle1">
-        <image source="/workspaces/MA-132-Spring-2026/source/images/Triangle1.png">
-          <shortdescription>(for accessibility)</shortdescription>
-        </image>
-        <caption>Yes</caption>
-      </figure>
-    </statement>
-  </exercise>
-
-
-   <!-- <exercise workspace="3in">
-    <statement>
-      <p>
-        Find the value of <m>x</m> in figure <xref ref="fig-Triangle3"/> below.
-      </p>
-      <figure xml:id="fig-Triangle3">
-        <image source="Triangle3.png" width="50%">
-          <shortdescription>aa.</shortdescription>
-        </image>
-      </figure>
-    </statement>
-  </exercise> -->
 
 
 </worksheet>
