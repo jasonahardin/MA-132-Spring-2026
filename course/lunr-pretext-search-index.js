@@ -213,8 +213,8 @@ var ptx_lunr_docs = [
   "url": "practice-LT04-GeometryBasics.html",
   "type": "Worksheet",
   "number": "",
-  "title": "LT 3 Practice Problems",
-  "body": " LT 3 Practice Problems    LT 4: Define, identify, and use concepts related to angles, parallel\/perpendicular lines, triangles, and circles, and use these to solve problems and answer questions.     A triangle has two sides with lengths inches and inches. The length of the third side of this triangle must be between what two values?     inches and inches      Determine whether or not each triple of numbers could represent the lengths of the sides of a triangle.      cm, cm, cm    No       in, in, in    Yes       m, m, m    Yes       ft, ft, ft    No     "
+  "title": "LT 4 Practice Problems",
+  "body": " LT 4 Practice Problems    LT 4: Define, identify, and use concepts related to angles, parallel\/perpendicular lines, triangles, and circles, and use these to solve problems and answer questions.     A triangle has two sides with lengths inches and inches. The length of the third side of this triangle must be between what two values?     inches and inches      Determine whether or not each triple of numbers could represent the lengths of the sides of a triangle.      cm, cm, cm    No       in, in, in    Yes       m, m, m    Yes       ft, ft, ft    No     "
 },
 {
   "id": "practice-LT04-GeometryBasics-3",
