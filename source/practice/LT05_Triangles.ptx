@@ -17,11 +17,13 @@
         Find the value of <m>x</m> in the figure below.
       </p>
       <!-- <figure xml:id="fig-Triangle1"> -->
-        <image source="images/Triangle1" width="50%">
-        </image>
+        
       <!-- </figure> -->
     </statement>
   </exercise>
+
+  <image source="images/Triangle1.png" width="50%">
+        </image>
 
    <!-- <exercise workspace="3in">
     <statement>
