@@ -16,18 +16,16 @@
       <p>
         Find the value of <m>x</m> in the figure below.
       </p>
-      <!-- <figure xml:id="fig-Triangle1"> -->
-        
-      <!-- </figure> -->
+      <figure xml:id="fig-Triangle1">
+        <image source="images/Triangle1">
+          <shortdescription>(for accessibility)</shortdescription>
+        </image>
+        <caption>Yes</caption>
+      </figure>
     </statement>
   </exercise>
 
-  <figure xml:id="fig-Triangle1">
-    <image source="images/Triangle1">
-      <shortdescription>(for accessibility)</shortdescription>
-    </image>
-    <caption>Yes</caption>
-  </figure>
+  
 
    <!-- <exercise workspace="3in">
     <statement>
