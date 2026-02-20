@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- When creating a new activity, make a copy of this file with appropriate name -->
+<worksheet xml:id="practice-LT03-Angles">
+  <title>LT 3 Practice Problems</title>
+
+  <!-- Optional introduction -->
+  <introduction>
+    <p>
+      LT 3:  Define, identify, and provide examples of different types of angles and related terminology, and solve problems involving angles.
+    </p>
+  </introduction>
+
+  <!-- Exercises start here. -->
+
+  <exercise workspace="3in">
+    
+    <introduction>
+      <p>
+        Complete the following definitions.
+      </p>
+    </introduction>
+
+    <task>
+      <statement>
+        <p>
+          An <term>obtuse</term> angle is ...
+        </p>
+      </statement>
+      <answer>
+        <p>
+          ... an angle with measure between <m>90^\circ</m> and <m>180^\circ</m>.
+        </p>
+      </answer>
+    </task>
+
+    <task>
+      <statement>
+        <p>
+          A <term>reflex</term> angle is ...
+        </p>
+      </statement>
+      <answer>
+        <p>
+          ... an angle with measure between <m>180^\circ</m> and <m>360^\circ</m>.
+        </p>
+      </answer>
+    </task>
+
+    <task>
+      <statement>
+        <p>
+          Two angles are <term>complementary</term> if...
+        </p>
+      </statement>
+      <answer>
+        <p>
+          ... their measures add up to <m>90^\circ</m>.
+        </p>
+      </answer>
+    </task>
+
+    <task>
+      <statement>
+        <p>
+          Two angles are <term>supplementary</term> if...
+        </p>
+      </statement>
+      <answer>
+        <p>
+          ... their measures add up to <m>180^\circ</m>.
+        </p>
+      </answer>
+    </task>
+  </exercise>
+
+  <exercise workspace="3in">
+    
+    <introduction>
+      <p>
+        Draw an example of each of the following and label them as necessary. If it is not possible to draw something, explain why.
+      </p>
+    </introduction>
+
+    <task>
+      <statement>
+        <p>
+          A right angle
+        </p>
+      </statement>
+      <answer>
+        <p>
+          Answers will vary. A right angle is one which measures exactly <m>90^\circ</m> (a quarter of a complete rotation).
+        </p>
+      </answer>
+    </task>
+
+    <task>
+      <statement>
+        <p>
+          A pair of complementary angles, both of which are acute.
+        </p>
+      </statement>
+      <answer>
+        <p>
+          Answers will vary. Any two complementary angles (sum of measures is <m>90^\circ</m>) will work.
+        </p>
+      </answer>
+    </task>
+
+    <task>
+      <statement>
+        <p>
+          A pair of complementary angles that are not adjacent.
+        </p>
+      </statement>
+      <answer>
+        <p>
+          Answers will vary. Any two angles which do not share a common side but whose measures add to <m>90^\circ</m> will work.
+        </p>
+      </answer>
+    </task>
+
+    <task>
+      <statement>
+        <p>
+          A pair of adjacent angles that are not supplementary angles.
+        </p>
+      </statement>
+      <answer>
+        <p>
+          Answers will vary. Any two angles which share a side and have measures adding to something other than <m>180^\circ</m> will work.
+        </p>
+      </answer>
+    </task>
+
+    <task>
+      <statement>
+        <p>
+          Two angles that are congruent but not adjacent.
+        </p>
+      </statement>
+      <answer>
+        <p>
+          Answers will vary. Any two angles which have the same measure but do not share a side will work.
+        </p>
+      </answer>
+    </task>
+
+  </exercise>
+
+  <exercise workspace="3in">
+
+    <introduction>
+      <p>
+        Determine if the following statements are always true, sometimes true, or never true. Draw pictures to explain.
+      </p>
+    </introduction>
+
+    <task>
+      <statement>
+        <p>
+          Two adjacent angles are supplementary.
+        </p>
+      </statement>
+      <answer>
+        <p>
+          Sometimes true
+        </p>
+      </answer>
+    </task>
+
+    <task>
+      <statement>
+        <p>
+          A reflex angle is larger than an obtuse angle.
+        </p>
+      </statement>
+      <answer>
+        <p>
+          Always true
+        </p>
+      </answer>
+    </task>
+
+    <task>
+      <statement>
+        <p>
+          A reflex angle is larger than a straight angle.
+        </p>
+      </statement>
+      <answer>
+        <p>
+          Always true
+        </p>
+      </answer>
+    </task>
+
+    <task>
+      <statement>
+        <p>
+          When two angles are supplementary, then one of them is obtuse.
+        </p>
+      </statement>
+      <answer>
+        <p>
+          Always true
+        </p>
+      </answer>
+    </task>
+
+    <task>
+      <statement>
+        <p>
+          Two adjacent acute angles considered as a single angle is obtuse.
+        </p>
+      </statement>
+      <answer>
+        <p>
+          Sometimes true
+        </p>
+      </answer>
+    </task>
+
+    <task>
+      <statement>
+        <p>
+          Two obtuse angles are supplementary.
+        </p>
+      </statement>
+      <answer>
+        <p>
+          Sometimes true
+        </p>
+      </answer>
+    </task>
+
+    <task>
+      <statement>
+        <p>
+          Congruent angles are adjacent.
+        </p>
+      </statement>
+      <answer>
+        <p>
+          Sometimes true
+        </p>
+      </answer>
+    </task>
+
+    <task>
+      <statement>
+        <p>
+          The supplement of an obtuse angle is acute.
+        </p>
+      </statement>
+      <answer>
+        <p>
+          Always true
+        </p>
+      </answer>
+    </task>
+
+    <task>
+      <statement>
+        <p>
+          The complement of an acute angle is acute.
+        </p>
+      </statement>
+      <answer>
+        <p>
+          Always true
+        </p>
+      </answer>
+    </task>
+    
+  </exercise>
+
+  <exercise workspace="3in">
+
+    <statement>
+      <p>
+        What is the smaller angle between the hands on a clock at 5:45? What is the reflex angle?
+      </p>
+    </statement>
+    <answer>
+      <p>
+        <m>97.5^\circ</m>, <m>262.5</m>
+      </p>
+    </answer>
+    
+  </exercise>
+
+<exercise workspace="3in">
+
+    <statement>
+      <p>
+        How many degrees does the minute hand of a clock move between 3:35 and 4:10?
+      </p>
+    </statement>
+    <answer>
+      <p>
+        <m>210^\circ</m>
+      </p>
+    </answer>
+    
+  </exercise>
+
+<exercise workspace="3in">
+
+    <statement>
+      <p>
+        Suppose someone designs an 18-hour clock in a similar fashion to the usual 12-hour clock; 
+        namely, the numbers 1 through 18 are equally-spaced going clockwise with 9 at the bottom (where the 6 usually is) 
+        and 18 at the top (where 12 usually is). How many degrees does the hour hand move each hour? Each minute?
+      </p>
+    </statement>
+    <answer>
+      <p>
+        <m>20^\circ</m> per hour, <m>\frac{1}{4}^\circ</m> per minute
+      </p>
+    </answer>
+    
+  </exercise>
+
+</worksheet>

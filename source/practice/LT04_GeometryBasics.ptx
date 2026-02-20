@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- When creating a new activity, make a copy of this file with appropriate name -->
+<worksheet xml:id="practice-LT04-GeometryBasics">
+  <title>LT 4 Practice Problems</title>
+
+  <!-- Optional introduction -->
+  <introduction>
+    <p>
+      LT 4:  Define, identify, and use concepts related to angles, parallel/perpendicular lines, triangles, and circles, and use these to solve problems and answer questions.
+    </p>
+  </introduction>
+
+  <exercise workspace="3in">
+    <statement>
+      <p>
+        A triangle has two sides with lengths <m>11</m> inches and <m>24</m> inches. The length of the third side of this triangle must be between what two values? 
+      </p>
+    </statement>
+    <answer>
+      <p>
+        <m>13</m> inches and <m>35</m> inches
+      </p>
+    </answer>
+  </exercise>
+
+  <exercise workspace="3in">
+    <introduction>
+      <p>
+        Determine whether or not each triple of numbers could represent the lengths of the sides of a triangle.
+      </p>
+    </introduction>
+
+    <task>
+      <statement>
+        <p>
+          <m>8</m> cm, <m>12</m> cm, <m>24</m> cm
+        </p>
+      </statement>
+      <answer>
+      <p>
+        No
+      </p>
+    </answer>
+    </task>
+    
+
+    <task>
+      <statement>
+        <p>
+          <m>5</m> in, <m>7</m> in, <m>9</m> in
+        </p>
+      </statement>
+      <answer>
+      <p>
+        Yes
+      </p>
+    </answer>
+    </task>
+    
+
+    <task>
+      <statement>
+        <p>
+          <m>1</m> m, <m>1.5</m> m, <m>2</m> m
+        </p>
+      </statement>
+      <answer>
+      <p>
+        Yes
+      </p>
+    </answer>
+    </task>
+    
+
+    <task>
+      <statement>
+        <p>
+          <m>2</m> ft, <m>5</m> ft, <m>7</m> ft
+        </p>
+      </statement>
+      <answer>
+      <p>
+        No
+      </p>
+    </answer>
+    </task>
+    
+  </exercise>
+
+
+
+</worksheet>

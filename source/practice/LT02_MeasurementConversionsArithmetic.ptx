@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- When creating a new activity, make a copy of this file with appropriate name -->
+<worksheet xml:id="practice-LT02-MeasurementConversionsArithmetic">
+  <title>LT 2 Practice Problems</title>
+
+  <!-- Optional introduction -->
+  <introduction>
+    <p>
+      LT 2:  Convert between units of length, weight, and capacity, and solve arithmetic problems.
+    </p>
+  </introduction>
+
+  <!-- Exercises start here. -->
+
+
+<exercise workspace="3in">
+  
+  <introduction>
+    <p>
+      Fill in each blank with the correct number.
+    </p>
+  </introduction>
+
+  <task>
+    <statement>
+      <p>
+        <m>33\ yd = \underline{\hspace{2cm}}\ ft</m>
+      </p>
+    </statement>
+    <answer>
+      <p>
+        <m>99</m>
+      </p>
+    </answer>
+  </task>
+
+  <task>
+    <statement>
+      <p>
+        <m>\frac{3}{5}\ km = \underline{\hspace{2cm}}\ m</m>
+      </p>
+    </statement>
+    <answer>
+      <p>
+        <m>600</m>
+      </p>
+    </answer>
+  </task>
+
+  <task>
+    <statement>
+      <p>
+        <m>4\ l\ 30\ ml = \underline{\hspace{2cm}}\ l</m>
+      </p>
+    </statement>
+    <answer>
+      <p>
+        <m>4.03</m>
+      </p>
+    </answer>
+  </task>
+
+  <task>
+    <statement>
+      <p>
+        <m>27\ mm = \underline{\hspace{2cm}}\ cm</m>
+      </p>
+    </statement>
+    <answer>
+      <p>
+        <m>2.7</m>
+      </p>
+    </answer>
+  </task>
+
+  <task>
+    <statement>
+      <p>
+        <m>0.78\ km = \underline{\hspace{2cm}}\ cm</m>
+      </p>
+    </statement>
+    <answer>
+      <p>
+        <m>78,000</m>
+      </p>
+    </answer>
+  </task>
+
+  <task>
+    <statement>
+      <p>
+        <m>123\ g = \underline{\hspace{2cm}}\ kg</m>
+      </p>
+    </statement>
+    <answer>
+      <p>
+        <m>0.123</m>
+      </p>
+    </answer>
+  </task>
+
+  <task>
+    <statement>
+      <p>
+        <m>12\ cm = \underline{\hspace{2cm}}\ mm</m>
+      </p>
+    </statement>
+    <answer>
+      <p>
+        <m>1.2</m>
+      </p>
+    </answer>
+  </task>
+
+  <task>
+    <statement>
+      <p>
+        <m>1978\ g = \underline{\hspace{2cm}}\ kg</m>
+      </p>
+    </statement>
+    <answer>
+      <p>
+        <m>1.978</m>
+      </p>
+    </answer>
+  </task>
+
+  <task>
+    <statement>
+      <p>
+        <m>4\ m\ 7\ cm = \underline{\hspace{2cm}}\ m</m>
+      </p>
+    </statement>
+    <answer>
+      <p>
+        <m>4.07</m>
+      </p>
+    </answer>
+  </task>
+
+  <task>
+    <statement>
+      <p>
+        <m>4\ m\ 7\ cm = \underline{\hspace{2cm}}\ cm</m>
+      </p>
+    </statement>
+    <answer>
+      <p>
+        <m>407</m>
+      </p>
+    </answer>
+  </task>
+
+</exercise>
+
+
+<exercise workspace="3in">
+  
+  <introduction>
+    <p>
+      Perform the following operations.
+    </p>
+  </introduction>
+
+  <task>
+    <statement>
+      <p>
+        <m>8\ kg\ 270\ g + 5\ kg\ 800\ g</m>
+      </p>
+    </statement>
+    <answer>
+      <p>
+        <m>14\ kg\ 70\ g</m>
+      </p>
+    </answer>
+  </task>
+
+  <task>
+    <statement>
+      <p>
+        <m>8\ kg\ 270\ g - 5\ kg\ 800\ g</m>
+      </p>
+    </statement>
+    <answer>
+      <p>
+        <m>2\ kg\ 470\ g</m>
+      </p>
+    </answer>
+  </task>
+
+  <task>
+    <statement>
+      <p>
+        <m>12\ m\ 25\ cm + 3\ m\ 90\ cm</m>
+      </p>
+    </statement>
+    <answer>
+      <p>
+        <m>16\ m\ 15\ cm</m>
+      </p>
+    </answer>
+  </task>
+
+  <task>
+    <statement>
+      <p>
+        <m>12\ m\ 25\ cm - 3\ m\ 90\ cm</m>
+      </p>
+    </statement>
+    <answer>
+      <p>
+        <m>8\ m\ 35\ cm</m>
+      </p>
+    </answer>
+  </task>
+</exercise>
+
+</worksheet>

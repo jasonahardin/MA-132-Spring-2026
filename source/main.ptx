@@ -6,9 +6,9 @@
   <xi:include href="./docinfo.ptx" />
   <!-- By creating a PreTeXt "book" for the course, we can split components into "chapters" -->
   <book>
-    <title>Course Name (change me)</title>
+    <title>Geometry, Measurement, Probability, and Statistics for Teachers</title>
 
-    <subtitle>MATH xxx Semester 20xx</subtitle>
+    <subtitle>MA-132, Spring 2026</subtitle>
 
     <!-- Optional: include frontmatter with author info and date -->
     <xi:include href="./frontmatter.ptx" />
@@ -59,6 +59,9 @@
       <title>Handouts</title>
       <!-- Include handouts -->
       <xi:include href="./practice/LT01_MeasurementWordProblems.ptx"/>
+      <xi:include href="./practice/LT02_MeasurementConversionsArithmetic.ptx"/>
+      <xi:include href="./practice/LT03_Angles.ptx"/>
+      <xi:include href="./practice/LT04_GeometryBasics.ptx"/>
     </chapter>
 
     <chapter xml:id="homework">
