@@ -22,8 +22,12 @@
     </statement>
   </exercise>
 
-  <image source="images/Triangle1.png" width="50%">
-        </image>
+  <figure xml:id="fig-Triangle1">
+    <image source="images/Triangle1">
+      <shortdescription>(for accessibility)</shortdescription>
+    </image>
+    <caption>Yes</caption>
+  </figure>
 
    <!-- <exercise workspace="3in">
     <statement>
