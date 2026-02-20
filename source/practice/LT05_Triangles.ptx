@@ -17,14 +17,14 @@
         Find the value of <m>x</m> in figure <xref ref="fig-Triangle1"/> below.
       </p>
       <figure xml:id="fig-Triangle1">
-        <image source="Triangle1.png" width="50%">
-          <shortdescription>A triangle with angles labeled <m>35^\circ</m>, <m>105^\circ</m>, and <m>x^\circ</m>.</shortdescription>
+        <image source="images/Triangle1.png" width="50%">
+          <shortdescription>A triangle with angles labeled 35 degrees, 105 degrees, and x degrees.</shortdescription>
         </image>
       </figure>
     </statement>
   </exercise>
 
-   <exercise workspace="3in">
+   <!-- <exercise workspace="3in">
     <statement>
       <p>
         Find the value of <m>x</m> in figure <xref ref="fig-Triangle3"/> below.
@@ -35,7 +35,7 @@
         </image>
       </figure>
     </statement>
-  </exercise>
+  </exercise> -->
 
 
 </worksheet>
