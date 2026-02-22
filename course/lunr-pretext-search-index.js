@@ -241,7 +241,52 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "LT 5 Practice Problems",
-  "body": " LT 5 Practice Problems    LT 5: Solve problems using the interior angle sum and exterior angles of a triangle.   "
+  "body": " LT 5 Practice Problems    LT 5: Solve problems using the interior angle sum and exterior angles of a triangle.  Find the value of in each figure. Show all steps and justify using the angle properties from class.      Yes             Yes             Yes             Yes             Yes          "
+},
+{
+  "id": "practice-LT05-Triangles-3",
+  "level": "2",
+  "url": "practice-LT05-Triangles.html#practice-LT05-Triangles-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "   Yes         "
+},
+{
+  "id": "practice-LT05-Triangles-4",
+  "level": "2",
+  "url": "practice-LT05-Triangles.html#practice-LT05-Triangles-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "   Yes         "
+},
+{
+  "id": "practice-LT05-Triangles-5",
+  "level": "2",
+  "url": "practice-LT05-Triangles.html#practice-LT05-Triangles-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "   Yes         "
+},
+{
+  "id": "practice-LT05-Triangles-6",
+  "level": "2",
+  "url": "practice-LT05-Triangles.html#practice-LT05-Triangles-6",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "   Yes         "
+},
+{
+  "id": "practice-LT05-Triangles-7",
+  "level": "2",
+  "url": "practice-LT05-Triangles.html#practice-LT05-Triangles-7",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": "   Yes         "
 },
 {
   "id": "homework",
