@@ -23,7 +23,25 @@
       <shortdescription>Yes</shortdescription>
     </image>
     </statement>
+    <answer>
+      <p>
+        <m>x = 40^\circ</m>
+      </p>
+    </answer>
   </exercise>  
+
+  <exercise workspace="3in">
+    <statement>
+      <image source="Triangle2.png" width="50%">
+      <shortdescription>Yes</shortdescription>
+    </image>
+    </statement>
+    <answer>
+      <p>
+        <m>x = 64^\circ</m>
+      </p>
+    </answer>
+  </exercise>
 
   <exercise workspace="3in">
     <statement>
@@ -31,7 +49,38 @@
       <shortdescription>Yes</shortdescription>
     </image>
     </statement>
+    <answer>
+      <p>
+        <m>x = 45^\circ</m>
+      </p>
+    </answer>
   </exercise> 
+
+  <exercise workspace="3in">
+    <statement>
+      <image source="Triangle4.png" width="50%">
+      <shortdescription>Yes</shortdescription>
+    </image>
+    </statement>
+    <answer>
+      <p>
+        <m>x = 56^\circ</m>
+      </p>
+    </answer>
+  </exercise>
+
+  <exercise workspace="3in">
+    <statement>
+      <image source="Triangle5.png" width="50%">
+      <shortdescription>Yes</shortdescription>
+    </image>
+    </statement>
+    <answer>
+      <p>
+        <m>x = 30^\circ</m>
+      </p>
+    </answer>
+  </exercise>
 
 
 </worksheet>
