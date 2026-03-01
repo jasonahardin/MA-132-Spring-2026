@@ -67,6 +67,7 @@
       <xi:include href="./practice/LT07_UnknownAngleProblems.ptx"/>
       <xi:include href="./practice/LT08_ParallelLines.ptx"/>
       <xi:include href="./practice/LT09_AngleSumPolygons.ptx"/>
+      <xi:include href="./practice/LT10_CongruentTriangles.ptx"/>
     </chapter>
 
     <chapter xml:id="homework">

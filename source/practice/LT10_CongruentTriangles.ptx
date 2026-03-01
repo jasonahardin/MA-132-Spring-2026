@@ -11,8 +11,110 @@
     </p>
   </introduction>
 
+  <exercise workspace="3in">
+    <introduction>
+      <p>
+        Each figure below includes a pair of congruent triangles. Identify the triangles using an appropriate correspondence (e.g., <m>\triangle ABC \cong \triangle XYZ</m>) and state the reason that they are congruent (e.g., SSS, ASA, etc.).
+      </p>
+    </introduction>
+    <task>
+      <statement>
+        <image source="CongruentTriangles1.png" width="50%">
+        <shortdescription>Yes</shortdescription>
+        </image>
+      </statement>
+      <answer>
+        <p>
+          a
+        </p>
+      </answer>
+    </task>  
+    <task>
+      <statement>
+        <image source="CongruentTriangles2.png" width="50%">
+        <shortdescription>Yes</shortdescription>
+        </image>
+      </statement>
+      <answer>
+        <p>
+          a
+        </p>
+      </answer>
+    </task>
+    <task>
+      <statement>
+        <image source="CongruentTriangles3.png" width="50%">
+        <shortdescription>Yes</shortdescription>
+        </image>
+      </statement>
+      <answer>
+        <p>
+          a
+        </p>
+      </answer>
+    </task>
+    <task>
+      <statement>
+        <image source="CongruentTriangles4.png" width="50%">
+        <shortdescription>Yes</shortdescription>
+        </image>
+      </statement>
+      <answer>
+        <p>
+          a
+        </p>
+      </answer>
+    </task>
+    <task>
+      <statement>
+        <image source="CongruentTriangles5.png" width="50%">
+        <shortdescription>Yes</shortdescription>
+        </image>
+      </statement>
+      <answer>
+        <p>
+          a
+        </p>
+      </answer>
+    </task>  
+    <task>
+      <statement>
+        <image source="CongruentTriangles6.png" width="50%">
+        <shortdescription>Yes</shortdescription>
+        </image>
+      </statement>
+      <answer>
+        <p>
+          a
+        </p>
+      </answer>
+    </task>
+  </exercise>
 
 
 
+  <exercise workspace="3in">
+    <statement>
+      <p>
+        In the figure below, <m>\triangle ABC \cong \triangle DCB</m>. Find the values of <m>x</m> and <m>y</m>.
+      </p>
+      <image source="SolveCongruentTriangles1.png" width="50%">
+        <shortdescription>Yes</shortdescription>
+        </image>
+    </statement>
+  </exercise>
+
+  
+
+  <exercise workspace="3in">
+    <statement>
+      <p>
+        In the figure below, <m>\triangle RST \cong \triangle VUT</m>. Find the values of <m>a</m> and <m>b</m>.
+      </p>
+      <image source="SolveCongruentTriangles2.png" width="50%">
+        <shortdescription>Yes</shortdescription>
+        </image>
+    </statement>
+  </exercise>
 
 </worksheet>
