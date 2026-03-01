@@ -361,6 +361,42 @@ var ptx_lunr_docs = [
   "body": "  Find the number of sides for each polygon described below.     A regular polygon with each interior angle measuring .           A regular polygon with each interior angle measuring .           A regular polygon with each interior angle measuring .           A regular polygon with each exterior angle measuring .           A regular polygon with each exterior angle measuring .           A regular polygon with interior angles that are five times as large as its exterior angles.           A polygon with two interior angles measuring and , and each of the remaining angles measuring .           A polygon with two interior angles measuring and , and each of the remaining angles measuring .           A polygon with three interior angles each measuring , and each of the remaining angles measuring .           A polygon with one interior angle measuring , one measuring , and each of the remaining angles measuring .           A polygon with two interior angles measuring each, and each of the remaining angles measuring .         "
 },
 {
+  "id": "practice-LT10-CongruentTriangles",
+  "level": "1",
+  "url": "practice-LT10-CongruentTriangles.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "LT 10 Practice Problems",
+  "body": " LT 10 Practice Problems    LT 10: Determine whether two triangles are congruent, and use congruent triangles to solve problems.     Each figure below includes a pair of congruent triangles. Identify the triangles using an appropriate correspondence (e.g., ) and state the reason that they are congruent (e.g., SSS, ASA, etc.).      Yes     a       Yes     a       Yes     a       Yes     a       Yes     a       Yes     a       In the figure below, . Find the values of and .   Yes       In the figure below, . Find the values of and .   Yes     "
+},
+{
+  "id": "practice-LT10-CongruentTriangles-3",
+  "level": "2",
+  "url": "practice-LT10-CongruentTriangles.html#practice-LT10-CongruentTriangles-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Each figure below includes a pair of congruent triangles. Identify the triangles using an appropriate correspondence (e.g., ) and state the reason that they are congruent (e.g., SSS, ASA, etc.).      Yes     a       Yes     a       Yes     a       Yes     a       Yes     a       Yes     a    "
+},
+{
+  "id": "practice-LT10-CongruentTriangles-4",
+  "level": "2",
+  "url": "practice-LT10-CongruentTriangles.html#practice-LT10-CongruentTriangles-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  In the figure below, . Find the values of and .   Yes    "
+},
+{
+  "id": "practice-LT10-CongruentTriangles-5",
+  "level": "2",
+  "url": "practice-LT10-CongruentTriangles.html#practice-LT10-CongruentTriangles-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  In the figure below, . Find the values of and .   Yes    "
+},
+{
   "id": "homework",
   "level": "1",
   "url": "homework.html",
