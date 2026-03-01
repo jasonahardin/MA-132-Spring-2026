@@ -403,7 +403,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "LT 11 Practice Problems",
-  "body": " LT 11 Practice Problems    LT 11: Solve problems involving area, including composite figures and regions with holes.     Find the area of the shaded figure in two different ways, one using addition and one using subtraction.     Yes     "
+  "body": " LT 11 Practice Problems    LT 11: Solve problems involving area, including composite figures and regions with holes.     Find the area of the shaded figure in two different ways, one using addition and one using subtraction.     Yes            Find the area of the following figures. Show all work and reasoning, including what area properties are being used (when applicable).     Yes           Yes          "
 },
 {
   "id": "practice-LT11-AreaBasics-3",
@@ -412,7 +412,16 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  Find the area of the shaded figure in two different ways, one using addition and one using subtraction.     Yes    "
+  "body": "  Find the area of the shaded figure in two different ways, one using addition and one using subtraction.     Yes         "
+},
+{
+  "id": "practice-LT11-AreaBasics-4",
+  "level": "2",
+  "url": "practice-LT11-AreaBasics.html#practice-LT11-AreaBasics-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Find the area of the following figures. Show all work and reasoning, including what area properties are being used (when applicable).     Yes           Yes         "
 },
 {
   "id": "homework",
