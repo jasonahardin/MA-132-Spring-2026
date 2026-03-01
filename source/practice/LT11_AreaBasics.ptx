@@ -22,8 +22,42 @@
         <shortdescription>Yes</shortdescription>
         </image>
       </statement>
+      <answer>
+        <p>
+          <m>105 \text{ m}^2</m>
+        </p>
+      </answer>
   </exercise>
 
+
+
+  <exercise workspace="3in">
+    <introduction>
+      <p>
+        Find the area of the following figures. Show all work and reasoning, including what area properties are being used (when applicable).
+      </p>
+    </introduction>
+      <task>
+        <image source="AreaBasics3.png" width="50%">
+        <shortdescription>Yes</shortdescription>
+        </image>
+        <answer>
+          <p>
+            <m>40 \text{ cm}^2</m>
+          </p>
+        </answer>
+      </task>
+      <task>
+        <image source="AreaBasics4.png" width="50%">
+        <shortdescription>Yes</shortdescription>
+        </image>
+        <answer>
+          <p>
+            <m>168 \text{ m}^2</m>
+          </p>
+        </answer>
+      </task>
+  </exercise>
 
 
 
