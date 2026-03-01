@@ -367,7 +367,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "LT 10 Practice Problems",
-  "body": " LT 10 Practice Problems    LT 10: Determine whether two triangles are congruent, and use congruent triangles to solve problems.     Each figure below includes a pair of congruent triangles. Identify the triangles using an appropriate correspondence (e.g., ) and state the reason that they are congruent (e.g., SSS, ASA, etc.).      Yes     a       Yes     a       Yes     a       Yes     a       Yes     a       Yes     a       In the figure below, . Find the values of and .   Yes       In the figure below, . Find the values of and .   Yes     "
+  "body": " LT 10 Practice Problems    LT 10: Determine whether two triangles are congruent, and use congruent triangles to solve problems.     Each figure below includes a pair of congruent triangles. Identify the triangles using an appropriate correspondence (e.g., ) and state the reason that they are congruent (e.g., SSS, ASA, etc.).      Yes      using SAS       Yes      using SSS       Yes      using RHL       Yes      using SAS       Yes      using RHL       Yes      using SAS       In the figure below, . Find the values of and .   Yes      and       In the figure below, . Find the values of and .   Yes      and cm    "
 },
 {
   "id": "practice-LT10-CongruentTriangles-3",
@@ -376,7 +376,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  Each figure below includes a pair of congruent triangles. Identify the triangles using an appropriate correspondence (e.g., ) and state the reason that they are congruent (e.g., SSS, ASA, etc.).      Yes     a       Yes     a       Yes     a       Yes     a       Yes     a       Yes     a    "
+  "body": "  Each figure below includes a pair of congruent triangles. Identify the triangles using an appropriate correspondence (e.g., ) and state the reason that they are congruent (e.g., SSS, ASA, etc.).      Yes      using SAS       Yes      using SSS       Yes      using RHL       Yes      using SAS       Yes      using RHL       Yes      using SAS    "
 },
 {
   "id": "practice-LT10-CongruentTriangles-4",
@@ -385,7 +385,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  In the figure below, . Find the values of and .   Yes    "
+  "body": "  In the figure below, . Find the values of and .   Yes      and    "
 },
 {
   "id": "practice-LT10-CongruentTriangles-5",
@@ -394,7 +394,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
-  "body": "  In the figure below, . Find the values of and .   Yes    "
+  "body": "  In the figure below, . Find the values of and .   Yes      and cm   "
 },
 {
   "id": "homework",
