@@ -397,6 +397,24 @@ var ptx_lunr_docs = [
   "body": "  In the figure below, . Find the values of and .   Yes      and cm   "
 },
 {
+  "id": "practice-LT11-AreaBasics",
+  "level": "1",
+  "url": "practice-LT11-AreaBasics.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "LT 11 Practice Problems",
+  "body": " LT 11 Practice Problems    LT 11: Solve problems involving area, including composite figures and regions with holes.     Find the area of the shaded figure in two different ways, one using addition and one using subtraction.     Yes     "
+},
+{
+  "id": "practice-LT11-AreaBasics-3",
+  "level": "2",
+  "url": "practice-LT11-AreaBasics.html#practice-LT11-AreaBasics-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Find the area of the shaded figure in two different ways, one using addition and one using subtraction.     Yes    "
+},
+{
   "id": "homework",
   "level": "1",
   "url": "homework.html",
