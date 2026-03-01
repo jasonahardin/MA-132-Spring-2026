@@ -63,6 +63,7 @@
       <xi:include href="./practice/LT03_Angles.ptx"/>
       <xi:include href="./practice/LT04_GeometryBasics.ptx"/>
       <xi:include href="./practice/LT05_Triangles.ptx"/>
+      <xi:include href="./practice/LT09_AngleSumPolygons.ptx"/>
     </chapter>
 
     <chapter xml:id="homework">
