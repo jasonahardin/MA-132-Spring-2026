@@ -25,7 +25,7 @@
       </statement>
       <answer>
         <p>
-          a
+          <m>\triangle ABD \cong \triangle ACD</m> using SAS
         </p>
       </answer>
     </task>  
@@ -37,7 +37,7 @@
       </statement>
       <answer>
         <p>
-          a
+          <m>\triangle EFG \cong \triangle EHG</m> using SSS
         </p>
       </answer>
     </task>
@@ -49,7 +49,7 @@
       </statement>
       <answer>
         <p>
-          a
+          <m>\triangle IJK \cong \triangle KLI</m> using RHL
         </p>
       </answer>
     </task>
@@ -61,7 +61,7 @@
       </statement>
       <answer>
         <p>
-          a
+          <m>\triangle MNO \cong \triangle QPO</m> using SAS
         </p>
       </answer>
     </task>
@@ -73,7 +73,7 @@
       </statement>
       <answer>
         <p>
-          a
+          <m>\triangle RST \cong \triangle RUT</m> using RHL
         </p>
       </answer>
     </task>  
@@ -85,7 +85,7 @@
       </statement>
       <answer>
         <p>
-          a
+          <m>\triangle XYZ \cong \triangle VZW</m> using SAS
         </p>
       </answer>
     </task>
@@ -102,6 +102,11 @@
         <shortdescription>Yes</shortdescription>
         </image>
     </statement>
+    <answer>
+      <p>
+        <m>x = 6</m> and <m>y = 9</m>
+      </p>
+    </answer>
   </exercise>
 
   
@@ -115,6 +120,11 @@
         <shortdescription>Yes</shortdescription>
         </image>
     </statement>
+    <answer>
+      <p>
+        <m>a = 40</m> and <m>b = 5.8</m> cm
+      </p>
+    </answer>
   </exercise>
 
 </worksheet>
