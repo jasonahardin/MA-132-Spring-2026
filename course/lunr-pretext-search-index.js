@@ -289,6 +289,42 @@ var ptx_lunr_docs = [
   "body": "   Yes         "
 },
 {
+  "id": "practice-LT06-TrianglesQuadrilaterals",
+  "level": "1",
+  "url": "practice-LT06-TrianglesQuadrilaterals.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "LT 6 Practice Problems",
+  "body": " LT 6 Practice Problems    LT 6: Identify, provide examples of, and answer questions about different types of triangles and quadrilaterals.      Yes          "
+},
+{
+  "id": "practice-LT06-TrianglesQuadrilaterals-3",
+  "level": "2",
+  "url": "practice-LT06-TrianglesQuadrilaterals.html#practice-LT06-TrianglesQuadrilaterals-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "   Yes         "
+},
+{
+  "id": "practice-LT07-UnknownAngleProblems",
+  "level": "1",
+  "url": "practice-LT07-UnknownAngleProblems.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "LT 7 Practice Problems",
+  "body": " LT 7 Practice Problems    LT 7: Write a clear \"Teacher's Solution\" for an unknown angle problem.   "
+},
+{
+  "id": "practice-LT08-ParallelLines",
+  "level": "1",
+  "url": "practice-LT08-ParallelLines.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "LT 8 Practice Problems",
+  "body": " LT 8 Practice Problems    LT 8: Identify types of angles relating to parallel lines, and use parallel lines, transversals, and auxiliary lines to solve unknown angle problems.   "
+},
+{
   "id": "practice-LT00-AngleSumPolygons",
   "level": "1",
   "url": "practice-LT00-AngleSumPolygons.html",
