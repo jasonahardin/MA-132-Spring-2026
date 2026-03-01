@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- When creating a new activity, make a copy of this file with appropriate name -->
+<worksheet xml:id="practice-LT00-AngleSumPolygons">
+  <title>LT 9 Practice Problems</title>
+
+  <!-- Optional introduction -->
+  <introduction>
+    <p>
+      LT 9: Apply the sum of interior and exterior angles of polygons to solve problems.
+    </p>
+  </introduction>
+
+
+  <exercise workspace="3in">
+    <statement>
+      Find the measure of each interior angle of the following polygons.
+    </statement>
+    <task>
+      <statement>
+        <p>
+          A regular pentagon.
+        </p>
+      </statement>
+    </task>
+    <answer>
+      <p>
+        <m>108^\circ</m>
+      </p>
+    </answer>
+    <task>
+      <statement>
+        <p>
+          A regular decagon (which has <m>n = 10</m> sides).
+        </p>
+      </statement>
+    </task>
+    <answer>
+      <p>
+        <m>144^\circ</m>
+      </p>
+    </answer>
+    <task>
+      <statement>
+        <p>
+          A regular <m>12-</m>gon.
+        </p>
+      </statement>
+    </task>
+    <answer>
+      <p>
+        <m>150^\circ</m>
+      </p>
+    </answer>
+    <task>
+      <statement>
+        <p>
+          A regular <m>18-</m>gon.
+        </p>
+      </statement>
+    </task>
+    <answer>
+      <p>
+        <m>160^\circ</m>
+      </p>
+    </answer>
+  </exercise>  
+
+ 
+  <exercise workspace="3in">
+    <statement>
+      Find the measure of each exterior angle of the following polygons.
+    </statement>
+    <task>
+      <statement>
+        <p>
+          A regular <m>12-</m>gon.
+        </p>
+      </statement>
+    </task>
+    <answer>
+      <p>
+        <m>30^\circ</m>
+      </p>
+    </answer>
+    <task>
+      <statement>
+        <p>
+          A regular <m>24-</m>gon.
+        </p>
+      </statement>
+    </task>
+    <answer>
+      <p>
+        <m>15^\circ</m>
+      </p>
+    </answer>
+  </exercise>
+
+
+
+  <exercise workspace="3in">
+    <statement>
+      Find the number of sides for each polygon described below.
+    </statement>
+    <task>
+      <statement>
+        <p>
+          A regular polygon with each interior angle measuring <m>165^\circ</m>.
+        </p>
+      </statement>
+    </task>
+    <answer>
+      <p>
+        <m>n = 24</m>
+      </p>
+    </answer>
+    <task>
+      <statement>
+        <p>
+          A regular polygon with each interior angle measuring <m>170^\circ</m>.
+        </p>
+      </statement>
+    </task>
+    <answer>
+      <p>
+        <m>n = 36</m>
+      </p>
+    </answer>
+    <task>
+      <statement>
+        <p>
+          A regular polygon with each interior angle measuring <m>135^\circ</m>.
+        </p>
+      </statement>
+    </task>
+    <answer>
+      <p>
+        <m>n = 8</m>
+      </p>
+    </answer>
+    <task>
+      <statement>
+        <p>
+          A regular polygon with each exterior angle measuring <m>45^\circ</m>.
+        </p>
+      </statement>
+    </task>
+    <answer>
+      <p>
+        <m>n = 8</m>
+      </p>
+    </answer>
+    <task>
+      <statement>
+        <p>
+          A regular polygon with each exterior angle measuring <m>30^\circ</m>.
+        </p>
+      </statement>
+    </task>
+    <answer>
+      <p>
+        <m>n = 18</m>
+      </p>
+    </answer>
+    <task>
+      <statement>
+        <p>
+          A regular polygon with interior angles that are five times as large as its exterior angles.
+        </p>
+      </statement>
+    </task>
+    <answer>
+      <p>
+        <m>n = 12</m>
+      </p>
+    </answer>
+    <task>
+      <statement>
+        <p>
+          A polygon with two interior angles measuring <m>60^\circ</m> and <m>120^\circ</m>, and each of the remaining angles measuring <m>150^\circ</m>.
+        </p>
+      </statement>
+    </task>
+    <answer>
+      <p>
+        <m>n = 8</m>
+      </p>
+    </answer>
+    <task>
+      <statement>
+        <p>
+          A polygon with two interior angles measuring <m>70^\circ</m> and <m>110^\circ</m>, and each of the remaining angles measuring <m>160^\circ</m>.
+        </p>
+      </statement>
+    </task>
+    <answer>
+      <p>
+        <m>n = 11</m>
+      </p>
+    </answer>
+    <task>
+      <statement>
+        <p>
+          A polygon with three interior angles each measuring <m>90^\circ</m>, and each of the remaining angles measuring <m>150^\circ</m>.
+        </p>
+      </statement>
+    </task>
+    <answer>
+      <p>
+        <m>n = 6</m>
+      </p>
+    </answer>
+    <task>
+      <statement>
+        <p>
+          A polygon with one interior angle measuring <m>120^\circ</m>, one measuring <m>150^\circ</m>, and each of the remaining angles measuring <m>165^\circ</m>.
+        </p>
+      </statement>
+    </task>
+    <answer>
+      <p>
+        <m>n = 20</m>
+      </p>
+    </answer>
+    <task>
+      <statement>
+        <p>
+          A polygon with two interior angles measuring <m>100^\circ</m> each, and each of the remaining angles measuring <m>140^\circ</m>.
+        </p>
+      </statement>
+    </task>
+    <answer>
+      <p>
+        <m>n = 7</m>
+      </p>
+    </answer>
+  </exercise>
+
+
+
+
+
+</worksheet>
