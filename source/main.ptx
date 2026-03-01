@@ -68,6 +68,7 @@
       <xi:include href="./practice/LT08_ParallelLines.ptx"/>
       <xi:include href="./practice/LT09_AngleSumPolygons.ptx"/>
       <xi:include href="./practice/LT10_CongruentTriangles.ptx"/>
+      <xi:include href="./practice/LT11_AreaBasics.ptx"/>
     </chapter>
 
     <chapter xml:id="homework">

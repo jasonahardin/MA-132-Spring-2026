@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- When creating a new activity, make a copy of this file with appropriate name -->
+<worksheet xml:id="practice-LT11-AreaBasics">
+  <title>LT 11 Practice Problems</title>
+
+  <!-- Optional introduction -->
+  <introduction>
+    <p>
+      LT 11: Solve problems involving area, including composite figures and regions with holes.
+    </p>
+  </introduction>
+
+  <exercise workspace="3in">
+    <introduction>
+      <p>
+        Find the area of the shaded figure in two different ways, one using addition and one using subtraction. 
+      </p>
+    </introduction>
+      <statement>
+        <image source="AreaBasics.png" width="50%">
+        <shortdescription>Yes</shortdescription>
+        </image>
+      </statement>
+  </exercise>
+
+
+
+
+</worksheet>
