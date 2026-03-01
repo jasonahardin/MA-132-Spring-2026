@@ -295,7 +295,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "LT 9 Practice Problems",
-  "body": " LT 9 Practice Problems    LT 9: Apply the sum of interior and exterior angles of polygons to solve problems.    Find the measure of each interior angle of the following polygons.    A regular pentagon.           A regular decagon (which has sides).           A regular gon.           A regular gon.           Find the measure of each exterior angle of the following polygons.    A regular gon.           A regular gon.           Find the number of sides for each polygon described below.    A regular polygon with each interior angle measuring .           A regular polygon with each interior angle measuring .           A regular polygon with each interior angle measuring .           A regular polygon with each exterior angle measuring .           A regular polygon with each exterior angle measuring .           A regular polygon with interior angles that are five times as large as its exterior angles.           A polygon with two interior angles measuring and , and each of the remaining angles measuring .           A polygon with two interior angles measuring and , and each of the remaining angles measuring .           A polygon with three interior angles each measuring , and each of the remaining angles measuring .           A polygon with one interior angle measuring , one measuring , and each of the remaining angles measuring .           A polygon with two interior angles measuring each, and each of the remaining angles measuring .          "
+  "body": " LT 9 Practice Problems    LT 9: Apply the sum of interior and exterior angles of polygons to solve problems.     Find the measure of each interior angle of the following polygons.     A regular pentagon.           A regular decagon (which has sides).           A regular gon.           A regular gon.            Find the measure of each exterior angle of the following polygons.     A regular gon.           A regular gon.            Find the number of sides for each polygon described below.     A regular polygon with each interior angle measuring .           A regular polygon with each interior angle measuring .           A regular polygon with each interior angle measuring .           A regular polygon with each exterior angle measuring .           A regular polygon with each exterior angle measuring .           A regular polygon with interior angles that are five times as large as its exterior angles.           A polygon with two interior angles measuring and , and each of the remaining angles measuring .           A polygon with two interior angles measuring and , and each of the remaining angles measuring .           A polygon with three interior angles each measuring , and each of the remaining angles measuring .           A polygon with one interior angle measuring , one measuring , and each of the remaining angles measuring .           A polygon with two interior angles measuring each, and each of the remaining angles measuring .          "
 },
 {
   "id": "practice-LT00-AngleSumPolygons-3",
@@ -304,7 +304,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": " Find the measure of each interior angle of the following polygons.    A regular pentagon.           A regular decagon (which has sides).           A regular gon.           A regular gon.         "
+  "body": "  Find the measure of each interior angle of the following polygons.     A regular pentagon.           A regular decagon (which has sides).           A regular gon.           A regular gon.         "
 },
 {
   "id": "practice-LT00-AngleSumPolygons-4",
@@ -313,7 +313,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": " Find the measure of each exterior angle of the following polygons.    A regular gon.           A regular gon.         "
+  "body": "  Find the measure of each exterior angle of the following polygons.     A regular gon.           A regular gon.         "
 },
 {
   "id": "practice-LT00-AngleSumPolygons-5",
@@ -322,7 +322,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
-  "body": " Find the number of sides for each polygon described below.    A regular polygon with each interior angle measuring .           A regular polygon with each interior angle measuring .           A regular polygon with each interior angle measuring .           A regular polygon with each exterior angle measuring .           A regular polygon with each exterior angle measuring .           A regular polygon with interior angles that are five times as large as its exterior angles.           A polygon with two interior angles measuring and , and each of the remaining angles measuring .           A polygon with two interior angles measuring and , and each of the remaining angles measuring .           A polygon with three interior angles each measuring , and each of the remaining angles measuring .           A polygon with one interior angle measuring , one measuring , and each of the remaining angles measuring .           A polygon with two interior angles measuring each, and each of the remaining angles measuring .         "
+  "body": "  Find the number of sides for each polygon described below.     A regular polygon with each interior angle measuring .           A regular polygon with each interior angle measuring .           A regular polygon with each interior angle measuring .           A regular polygon with each exterior angle measuring .           A regular polygon with each exterior angle measuring .           A regular polygon with interior angles that are five times as large as its exterior angles.           A polygon with two interior angles measuring and , and each of the remaining angles measuring .           A polygon with two interior angles measuring and , and each of the remaining angles measuring .           A polygon with three interior angles each measuring , and each of the remaining angles measuring .           A polygon with one interior angle measuring , one measuring , and each of the remaining angles measuring .           A polygon with two interior angles measuring each, and each of the remaining angles measuring .         "
 },
 {
   "id": "homework",
