@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- When creating a new activity, make a copy of this file with appropriate name -->
+<worksheet xml:id="practice-LT06-TrianglesQuadrilaterals">
+  <title>LT 6 Practice Problems</title>
+
+  <!-- Optional introduction -->
+  <introduction>
+    <p>
+      LT 6:  Identify, provide examples of, and answer questions about different types of triangles
+and quadrilaterals.
+    </p>
+  </introduction>
+
+
+  <exercise workspace="3in">
+    <statement>
+      <image source="Triangle1.png" width="50%">
+      <shortdescription>Yes</shortdescription>
+    </image>
+    </statement>
+    <answer>
+      <p>
+        <m>x = 40^\circ</m>
+      </p>
+    </answer>
+  </exercise>  
+
+  
+
+</worksheet>

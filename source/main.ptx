@@ -55,14 +55,17 @@
 
 
 
-    <chapter xml:id="handouts">
-      <title>Handouts</title>
-      <!-- Include handouts -->
+    <chapter xml:id="PracticeProblems">
+      <title>Practice Problems</title>
+      <!-- Include practice problems -->
       <xi:include href="./practice/LT01_MeasurementWordProblems.ptx"/>
       <xi:include href="./practice/LT02_MeasurementConversionsArithmetic.ptx"/>
       <xi:include href="./practice/LT03_Angles.ptx"/>
       <xi:include href="./practice/LT04_GeometryBasics.ptx"/>
       <xi:include href="./practice/LT05_Triangles.ptx"/>
+      <xi:include href="./practice/LT06_TrianglesQuadrilaterals.ptx"/>
+      <xi:include href="./practice/LT07_UnknownAngleProblems.ptx"/>
+      <xi:include href="./practice/LT08_ParallelLines.ptx"/>
       <xi:include href="./practice/LT09_AngleSumPolygons.ptx"/>
     </chapter>
 
